@@ -33,7 +33,7 @@ const Header = () => {
                 </button>
             </div>
 
-            <ul className={`lg:flex space-x-4 font-custom text-xl ${isMobileMenuOpen ? 'flex flex-col space-y-4 absolute right-0  top-20 opacity-0.2 w-full px-4 py-2' : 'hidden'}`}>
+            <ul className={`lg:flex space-x-4 font-custom text-xl ${isMobileMenuOpen ? 'flex flex-col space-y-4 absolute right-0  top-20 bg-zinc-800  w-full px-4 py-2' : 'hidden'}`}>
                 
                 <li>
                     <NavLink to="/" exact className={({ isActive }) => isActive ? "text-[#4EF0E0] underline" : "" } >

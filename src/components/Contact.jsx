@@ -28,13 +28,13 @@ function Home() {
                         <input
                             type='text'
                             name='username'
-                            placeholder='Enter your name'
+                            placeholder='Your name'
                             className='rounded-2xl mt-3 h-12 px-10 text-lg w-full p-1'
                         />
                         <input
                             type='email'
                             name='mail'
-                            placeholder='Enter your email'
+                            placeholder='Your email'
                             className='rounded-2xl mt-3 h-12 px-10 text-lg w-full'
                         />
                         <input
