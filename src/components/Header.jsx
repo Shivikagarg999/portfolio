@@ -57,7 +57,7 @@ const Header = () => {
                 </li>
             </ul>
             <div className='font-custom text-xs'>
-            <a href="/src/resume/myres.pdf" download className='text-lg border border-[#4EF0E0] text-white px-2 py-2 rounded-3xl hover:bg-[#4EF0E0] hover:text-white transition duration-300'>
+            <a href="/src/resume/Shivika's Resume.pdf" download className='text-lg border border-[#4EF0E0] text-white px-2 py-2 rounded-3xl hover:bg-[#4EF0E0] hover:text-white transition duration-300'>
     Download CV
 </a>
 
