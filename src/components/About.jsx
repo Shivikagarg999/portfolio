@@ -12,9 +12,9 @@ function About() {
     initial={{ y: -40 }}
             animate={{ y: 0 }}
             transition={{ duration: 1 }}
-    className='text-[#4EF0E0] text-center mt-7  font-bold text-6xl'>ABOUT ME</motion.h1>
-     <div className=' flex m-4 justify-center items-center bg-gray-800'>
-      <div className='rounded shadow-lg  h-[70vh] md:w-2/3 lg:w-1/2 p-6 flex flex-col md:flex-row items-center justify-center'>
+    className='text-[#4EF0E0] text-center mt-7 mb-4 font-bold text-6xl'>ABOUT ME</motion.h1>
+     <div className='w-full flex m-4 justify-center items-center bg-gray-800'>
+      <div className='rounded shadow-lg w-full h-[70vh] md:w-2/3 lg:w-1/2 p-6 flex flex-col md:flex-row items-center justify-center'>
           <img
               src="./src/image/me2.jpg"
               alt="Profile"
