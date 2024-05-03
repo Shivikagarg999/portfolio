@@ -18,7 +18,7 @@ function Home() {
          initial={{ x: +100 }}
          animate={{ x: 0 }}
          transition={{ duration: 1 }}
-        className='text-center text-white uppercase text-2xl'>Mern Stack developer</motion.h3>
+        className='text-center text-white uppercase text-2xl'>Full Stack Developer <span className='font-bold text-[#4EF0E0]'>(MERN STACK)</span></motion.h3>
         <div className='mx-auto flex justify-center'>
           <p className='mt-4 text-xl w-96 text-white text-center'>
             A fresher passionate about creating <span className='text-[#4EF0E0]'>seamless</span> and engaging user experiences on the <span className='text-[#4EF0E0]'>web</span>.
