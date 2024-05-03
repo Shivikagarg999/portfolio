@@ -29,19 +29,19 @@ function Home() {
                             type='text'
                             name='username'
                             placeholder='Your name'
-                            className='rounded-2xl mt-3 h-12 px-10 text-lg w-full p-1'
+                            className='rounded-2xl mt-3 h-12 px-10 text-lg w-full p-1 bg-transparent border-2 border-zinc-300'
                         />
                         <input
                             type='email'
                             name='mail'
                             placeholder='Your email'
-                            className='rounded-2xl mt-3 h-12 px-10 text-lg w-full'
+                            className='rounded-2xl mt-3 h-12 px-10 text-lg w-full bg-transparent border-2 border-zinc-300'
                         />
                         <input
                             type='text'
                             name='message'
                             placeholder='Your message'
-                            className='rounded-2xl mt-3 h-32 w-full p-4 text-lg'
+                            className='rounded-2xl mt-3 h-32 w-full p-4 text-lg bg-transparent border-2 border-zinc-300'
                         />
                         <div className='text-center mt-3'>
                             <button
