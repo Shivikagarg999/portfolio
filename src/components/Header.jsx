@@ -17,9 +17,11 @@ const Header = () => {
     return (
         <nav className="bg-gray-800 text-white px-10 w-[100vw] py-4 flex items-center justify-between ">
           
-            <div className="flex items-center">
-                <img src="https://png.pngitem.com/pimgs/s/238-2384334_my-portfolio-cover-design-hd-png-download.png" alt="Logo" className="h-12" />       
-            </div>
+          <div  style={{ lineHeight: '1.2' }}>
+  <h3 className="font-bold text-xl font-serif mb-1">Shivika</h3>
+  <h2 className="font-bold text-xl font-serif mt-0">Garg</h2>
+</div>
+
         
             <div className="lg:hidden">
                 <button onClick={toggleMobileMenu} className="text-white focus:outline-none">

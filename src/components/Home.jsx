@@ -28,7 +28,7 @@ function Home() {
           <img
             src="./src/image/mee.jpg"
             alt="Profile"
-            className="rounded-full border border-[#4EF0E0] h-64 object-cover"
+            className="rounded-full border border-[#4EF0E0] object-cover  h-56 "
           />
         </div>
       </div>

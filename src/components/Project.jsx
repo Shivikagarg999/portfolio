@@ -24,7 +24,17 @@ function Project() {
                     </div>
                 </div>
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-gray-800">
-                    <img className="w-full" src='./src/image/p2.png' alt="Project 2" />
+                    <img className="w-full" src='./src/image/pn.png' alt="Project 2" />
+                    <div className="px-6 py-4">
+                        <div className="font-bold text-xl text-[#4EF0E0] mb-2">Currency Convertor app(React)</div>
+                        <p className="text-white text-base">Designed a React Currency Converter App, a streamlined tool for effortless currency conversion. Powered by two APIs, this app provides real-time exchange rates for 31 currencies. With a user-friendly interface and a convenient swap button,this app simplifies the process, offering accuracy and convenience at your fingertips.</p>
+                    </div>
+                    <div className="px-6 py-4">
+                        <a href="" className="bg-[#4EF0E0] hover:bg-white text-black font-bold py-2 px-4 rounded-full mr-2">View Project</a>
+                    </div>
+                </div>
+                <div className="max-w-sm rounded overflow-hidden shadow-lg bg-gray-800">
+                    <img className="w-full" src='./src/image/p2.png' alt="Project 3" />
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl text-[#4EF0E0] mb-2">OCHI web clone(frontEnd)</div>
                         <p className="text-white text-base">Created a clone of <span className='text-[#4EF]'>Awarded</span> website, <span className='text-[#4Ef]'>Ochi</span> with seamless transitions and animations using core <span className='text-[#4EF]'>React, framer motion and Tailwind css</span>.</p>
@@ -34,7 +44,7 @@ function Project() {
                     </div>
                 </div>
                 <div className="max-w-sm rounded overflow-hidden shadow-lg bg-gray-800">
-                    <img className="w-full" src='./src/image/p3.png' alt="Project 3" />
+                    <img className="w-full" src='./src/image/p3.png' alt="Project 4" />
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl text-[#4EF0E0] mb-2">TwoGood web clone(frontEnd)</div>
                         <p className="text-white text-base">This project is a website clone of an animated website enhanced with JavaScript animations. With smooth transitions and engaging effects, it offers an immersive user experience. Explore captivating interactions that elevate browsing.</p>
@@ -43,6 +53,7 @@ function Project() {
                         <a href="" className="bg-[#4EF0E0] hover:bg-white text-black font-bold py-2 px-4 rounded-full mr-2">View Project</a>
                     </div>
                 </div>
+         
                 {/* Last 3 projects marked as "Coming Soon" */}
                 <div className="max-w-sm rounded overflow-hidden shadow-lg  bg-gray-800">
                     <div className="w-full h-full flex items-center justify-center">

@@ -11,7 +11,6 @@ function Home() {
         >
             <div className='main w-full flex flex-col md:flex-row items-center justify-center'>
                 <section className='w-full md:w-[40%] bg-slate-200 h-full flex flex-col justify-center items-center'>
-                    <h2 className='text-center text-[#4EF0E0] font-bold text-4xl uppercase mb-6'>Let's get in touch</h2>
                     <img
                         src='https://cdni.iconscout.com/illustration/premium/thumb/contact-us-3483599-2912016.png'
                         className='w-full h-auto p-4'

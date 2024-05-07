@@ -16,7 +16,7 @@ const Footer = () => {
                     <i class="ri-linkedin-box-fill"></i>
                     </a>
                 </div>
-                <p className="text-lg mt-2">&copy; {new Date().getFullYear()} Shivika Garg. All rights reserved.</p>
+                <p className="text-lg mt-2">Created with 🧡 by Me</p>
                 
             </div>
         </footer>
